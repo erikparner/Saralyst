@@ -1,5 +1,9 @@
 ---
-title: "Saralyst"
+title: "Saralyst Consult"
 ---
 
-Dette er hjemmesiden for Saralyst Consult.
+Saralyst Consult yder statistisk rådgivning med speciale indenfor forskningsprojekter idenfor det sundhedsvidenskabelige område. 
+
+Erik Parner
+
+Mail: erik.parner@gmail.com

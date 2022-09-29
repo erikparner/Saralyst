@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Saralyst",
+    "title": "Saralyst Consult",
     "section": "",
-    "text": "Dette er hjemmesiden for Saralyst Consult."
+    "text": "Erik Parner\nMail: erik.parner@gmail.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
