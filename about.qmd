@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Kontakt"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Mail: erik.parner@gmail.com
