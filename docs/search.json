@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Saralyst Consult",
-    "section": "",
-    "text": "Saralyst Consult tilbyder statistisk rådgivning, analyser og udvikling af analyse apps (Shiny apps). Vi har mange års erfaring indenfor det sundhedsvidenskabelige område."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Kontakt",
     "section": "",
     "text": "Mail: erik.parner@gmail.com"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Saralyst Consult",
+    "section": "",
+    "text": "Saralyst Consult tilbyder statistisk rådgivning, analyser og udvikling af analyse apps (Shiny apps). Vi har mange års erfaring indenfor det sundhedsvidenskabelige område."
   }
 ]

@@ -3,9 +3,9 @@ title: "Saralyst Consult"
 ---
 
 ::: {layout-ncol=2}
-![](images/calculations.jpg){width="50%"}
+![](images/calculations.jpg){width="55%"}
 
-![](images/Conclusion_generator.png){width="50%"}
+![](images/Conclusion_generator.png){width="55%"}
 :::
 
 
