@@ -9,6 +9,8 @@ title: "Saralyst Consult"
 :::
 
 
-Saralyst Consult tilbyder statistisk rådgivning, analyser og udvikling af analyse apps (Shiny apps). Vi har mange års erfaring indenfor det sundhedsvidenskabelige område.
+Saralyst Consult tilbyder statistisk rådgivning, analyser og udvikling af analyse apps (Shiny apps). 
+
+Vi har mange års erfaring indenfor det sundhedsvidenskabelige område.
 
 

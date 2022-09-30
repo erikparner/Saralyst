@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Saralyst Consult"
-  logo: images/calculations.jpg
   navbar:
     left:
       - href: index.qmd
