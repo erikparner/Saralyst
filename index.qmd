@@ -2,8 +2,13 @@
 title: "Saralyst Consult"
 ---
 
-Statistisk rådgivning med speciale indenfor sundhedsvidenskabelige forskningsprojekter. 
+::: {layout-ncol=2}
+![](images/calculations.jpg){width="50%"}
 
-Erik Parner
+![](images/Conclusion_generator.png){width="50%"}
+:::
+
+
+Saralyst Consult tilbyder statistisk rådgivning, analyser og udvikling af analyse apps (Shiny apps). Vi har mange års erfaring indenfor det sundhedsvidenskabelige område.
 
 

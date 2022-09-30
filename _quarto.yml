@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Saralyst"
+  title: "Saralyst Consult"
+  logo: images/calculations.jpg
   navbar:
     left:
       - href: index.qmd
-        text: Home
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: simple
     css: styles.css
     toc: true
 
