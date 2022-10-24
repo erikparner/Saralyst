@@ -4,6 +4,6 @@ title: "Kontakt"
 
 Ejer: Erik Parner
 
-erik.parner att gmail.com
+erik.parner *att* gmail *dot* com
 
 
