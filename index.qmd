@@ -9,3 +9,8 @@ title: "Saralyst Consult"
 :::
 
 Saralyst Consult tilbyder statistisk rådgivning, analyser, datamanagement og udvikling af analyse web apps (Shiny web apps). Vi har mere end 20 års erfaringen indenfor det sundhedsvidenskabelige område.
+
+Shiny web apps giver mulighed for at implementere nyeste forskning i en klinisk dagligdag. Det kan for eksempel være prædiktionsmodeller til at forudsige patienters risiko for sygdom, til en bedre styring af patients kontrolbesøg. 
+
+
+
